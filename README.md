@@ -8,9 +8,7 @@ This project includes 7 clouds in 3 different versions: Day, Sunset/Sunrise and 
 Any new clouds should follow the flat and intentional art style, meant to work with any or most backgrounds. 
 
 
-
-If you're making new clouds:
-
+# Contributing
 Day clouds versions features a white base (#FFFFFF), with a light blue midground (#eaf6fc), and a blue-ish foreground (#b4d7f7).
 
 Sunset clouds versions features a blue grey-ish base (#646478), with a darker blue grey-ish midground (#5b5f75), and a dark blue grey-ish foreground (#495371).*
