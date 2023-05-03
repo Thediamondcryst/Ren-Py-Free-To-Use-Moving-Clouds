@@ -12,7 +12,7 @@ Any new clouds should follow the flat and intentional art style, meant to work w
 Day clouds versions features a white base (#FFFFFF), with a light blue midground (#eaf6fc), and a blue-ish foreground (#b4d7f7).
 
 Sunset clouds versions features a blue grey-ish base (#646478), with a darker blue grey-ish midground (#5b5f75), and a dark blue grey-ish foreground (#495371).*
-Or, add a black (#000000) Color Overlay effect with the Darken blending mode to the Day clouds and set it set to 60% opacity, and another Color Overlay to it set as Drk Blue (#101055) with the Color blending mode set to 30% opacity.*
+Or, add a black (#000000) Color Overlay effect with the Darken blending mode to the Day clouds and set it set to 60% opacity, and another Color Overlay to it set as Dark Blue (#101055) with the Color blending mode set to 30% opacity.*
 This should works with darker sunset images, especially near the sky above the sun, where it's slowly getting to night time.
 
 Night clouds versions features a dark blue grey-ish base (#27263a), with a darker dark blue grey-ish midground (#25263a), and a darker darker dark blue grey-ish foreground (#20233a).*
